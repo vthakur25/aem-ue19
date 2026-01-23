@@ -2,7 +2,8 @@
   "mappings": [
     "/content/aem-ue19/:/",
     "/content/aem-ue19/configuration:/.helix/config.json",
-    "/content/aem-ue19/metadata:/metadata.json"
+    "/content/aem-ue19/metadata:/metadata.json",
+    "/content/aem-ue19/redirects:/redirects.json"
   ],
   "includes": [
     "/content/aem-ue19/"
